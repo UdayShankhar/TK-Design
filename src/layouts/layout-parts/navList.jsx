@@ -90,7 +90,12 @@ const index = [{
 }, {
   title: "Ecommerce",
   Icon: Icons.EcommerceIcon,
-  children: [{
+  children: [
+    {
+ name: "HomePage",
+    path: "/dashboard/home"
+    },
+    {
     name: "Shop",
     path: "/dashboard/shop"
   }, {

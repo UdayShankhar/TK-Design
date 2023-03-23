@@ -1,0 +1,35 @@
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+  box-sizing: border-box !important;
+}
+
+.MuiBox-root.css-tj1uqv,
+header {
+  display: none !important;
+}
+
+nav {
+  width: 100vw;
+  background-color: black;
+  height: 50px;
+  color: white;
+}
+
+.navBarDiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 70vw;
+  background-color: rgb(0, 0, 0);
+  height: inherit;
+  margin: 0 auto !important;
+  color: white;
+}
+
+.languageCurrency {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  color: white;
+}

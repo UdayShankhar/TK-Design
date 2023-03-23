@@ -5,7 +5,7 @@ import { AdapterDateFns } from "@mui/x-date-pickers/AdapterDateFns";
 import { JWTAuthProvider } from "contexts/JWTAuth";
 import "nprogress/nprogress.css";
 import "pure-react-carousel/dist/react-carousel.es.css"; // import "react-image-lightbox/style.css";
-
+import "bootstrap/dist/css/bootstrap.min.css";
 import "react-quill/dist/quill.snow.css";
 import { BrowserRouter } from "react-router-dom";
 import "simplebar/dist/simplebar.min.css";

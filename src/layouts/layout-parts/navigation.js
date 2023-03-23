@@ -122,7 +122,12 @@ export const navigations = [{
   }, {
     name: 'Product Details',
     path: '/dashboard/product-details'
-  }, {
+  }, 
+  {
+name: 'Home Page',
+    path: '/dashboard/home'
+  },
+  {
     name: 'Shop 1',
     path: '/dashboard/shop'
   }, {
