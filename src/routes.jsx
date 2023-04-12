@@ -352,7 +352,7 @@ const dashboardRoutes = [
   },
   {
     path: "project-v1",
-    element: <TerryKartHomePage />,
+    element: <ProjectV1 />,
   },
   {
     path: "TerryKartHome",
